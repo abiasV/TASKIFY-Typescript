@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Live Website
-![View Website:](Screenshot.jpeg)
+![View Website:](Snapshot.png)
 
 ## Available Scripts
 
